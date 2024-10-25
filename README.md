@@ -23,6 +23,7 @@ xargs apt-get install < FILENAME.txt
 ----------
 ****Deb 2 - Debian 12 repository****
 
+/etc/apt/source.list
 
 deb https://ftp.debian.org/debian/ bookworm contrib main non-free non-free-firmware
 deb-src https://ftp.debian.org/debian/ bookworm contrib main non-free non-free-firmware
