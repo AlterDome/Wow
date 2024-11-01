@@ -1,0 +1,11 @@
+fakeroot
+libncurses5-dev
+libncurses-dev
+dwarves
+build-essential
+gcc
+bc
+bison
+flex
+libssl-dev
+libelf-dev
