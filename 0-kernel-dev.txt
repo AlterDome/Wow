@@ -9,3 +9,4 @@ bison
 flex
 libssl-dev
 libelf-dev
+cmake
