@@ -79,3 +79,4 @@ cpp-11-doc
 codeblocks-contrib
 librepfunc1
 darts
+bcc
