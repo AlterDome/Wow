@@ -76,3 +76,4 @@ cpp-riscv64-linux-gnu
 cpp-mips64el-linux-gnuabi64
 cpp-aarch64-linux-gnu
 cpp-11-doc
+codeblocks-contrib
