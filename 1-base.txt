@@ -286,3 +286,12 @@ xz-utils
 zlib1g
 zmap
 zstd
+qt5-qmake
+codequery
+libqgpsmm-dev
+pyqt-builder-doc
+python3-pyqtbuild
+qconf
+qmake6
+qmake6-bin
+qt5-qmake-bin
