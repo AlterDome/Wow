@@ -1,0 +1,11 @@
+clex
+vfu
+mc
+xfe
+ranger
+ratpoison
+s3dfm
+far2l
+far2l-data
+doublecmd-common
+doublecmd-plugins
