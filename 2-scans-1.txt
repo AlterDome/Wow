@@ -44,3 +44,4 @@ forensics-all
 clamassassin
 braa
 medusa
+nast
