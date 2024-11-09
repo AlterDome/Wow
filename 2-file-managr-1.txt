@@ -9,3 +9,4 @@ far2l
 far2l-data
 doublecmd-common
 doublecmd-plugins
+krusader
