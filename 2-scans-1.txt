@@ -57,3 +57,4 @@ cbm
 patator
 sucrack
 brutespray
+dirb
