@@ -58,3 +58,4 @@ patator
 sucrack
 brutespray
 dirb
+dnsmap
