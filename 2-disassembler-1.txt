@@ -1,6 +1,7 @@
 nasm
 fasm
 sasm
+dasm
 d52
 dis51
 libdistorm3-3
