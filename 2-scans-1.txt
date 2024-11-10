@@ -54,3 +54,4 @@ netsniff-ng
 linssid
 bully
 cbm
+patator
