@@ -40,3 +40,4 @@ games-c++-dev
 games-racing
 games-simulation
 orbital-eunuchs-sniper
+blockout2
