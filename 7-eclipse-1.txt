@@ -1,6 +1,7 @@
 libeclipse-e4-ui-ide-java
 ecj
 libeclipse-jdt-annotation-java
+openjdk-17-jdk
 libeclipse-jdt-compiler-apt-java
 libeclipse-jdt-apt-pluggable-core-java
 libeclipse-linuxtools-java
@@ -20,3 +21,4 @@ gradle-apt-plugin
 libeclipse-emf-common-java
 eclipse-debian-helper
 eclipse-titan
+
