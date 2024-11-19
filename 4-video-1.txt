@@ -26,3 +26,5 @@ radio
 fbtv
 xawtv
 ytcc
+blender
+blender-data
