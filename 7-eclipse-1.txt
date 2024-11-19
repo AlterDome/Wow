@@ -18,3 +18,5 @@ testng
 libtestng7-java
 gradle-apt-plugin
 libeclipse-emf-common-java
+eclipse-debian-helper
+eclipse-titan
