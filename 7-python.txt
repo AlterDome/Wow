@@ -1,3 +1,8 @@
+idle
+idle3
+python3-full
+idle-python3.11
+python3.11-full
 python3-trufont
 python-django-celery-beat-doc
 python3-tempest-horizon
