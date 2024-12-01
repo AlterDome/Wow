@@ -1,0 +1,4 @@
+python3-fastapi
+python3-ormar
+python3-databases
+python3-sqlmodel
