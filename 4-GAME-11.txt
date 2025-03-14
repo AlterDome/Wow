@@ -42,3 +42,4 @@ games-simulation
 orbital-eunuchs-sniper
 blockout2
 phalanx
+endless-sky-data
