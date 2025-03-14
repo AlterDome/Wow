@@ -32,3 +32,5 @@ games-toys
 games-c++-dev
 games-racing
 games-simulation
+seahorse-adventures
+seahorse-nautilus
