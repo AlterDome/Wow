@@ -68,3 +68,4 @@ redeclipse-data
 lugaru
 freedink
 chromium-bsu
+dreamchess
