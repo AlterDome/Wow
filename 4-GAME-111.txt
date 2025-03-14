@@ -69,3 +69,4 @@ lugaru
 freedink
 chromium-bsu
 dreamchess
+plee-the-bear
