@@ -67,4 +67,4 @@ redeclipse-server
 redeclipse-data
 lugaru
 freedink
-
+chromium-bsu
