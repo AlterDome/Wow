@@ -29,3 +29,5 @@ ytcc
 blender
 blender-data
 flowblade
+olive-editor
+
