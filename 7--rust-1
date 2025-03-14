@@ -1,1 +1,13 @@
+cargo-web
+rust-all
+rust-clippy
+rust-doc
+rust-src
+rustc
+rustfmt
+libstd-rust-web-1.78
+libstd-rust-web-dev
+rust-web-clippy
+sccache
+
 
