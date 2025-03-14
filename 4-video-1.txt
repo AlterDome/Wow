@@ -30,4 +30,4 @@ blender
 blender-data
 flowblade
 olive-editor
-
+pitivi
