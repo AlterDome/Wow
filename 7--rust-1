@@ -6,8 +6,12 @@ rust-src
 rustc
 rustfmt
 libstd-rust-web-1.78
+libstd-rust-1.63
 libstd-rust-web-dev
 rust-web-clippy
 sccache
+libstd-rust-dev-wasm32
+rust-gdb
+rust-lldb
 
 
