@@ -28,3 +28,4 @@ xawtv
 ytcc
 blender
 blender-data
+flowblade
