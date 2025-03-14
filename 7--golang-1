@@ -4,5 +4,12 @@ golang-1.21-go
 golang-1.21-src
 golang-1.22
 golang-1.23
+golang-1.23-src
 golang-github-openfga-go-sdk-dev
 golang-mvdan-sh-dev
+golang-github-pkg-browser-dev
+golang-github-prometheus-community-pro-bing-dev
+golang-sigsum-sigsum-go-dev
+golang-maunium-go-mautrix-dev
+golang-github-secure-systems-lab-go-securesystemslib-dev
+golang-github-coreos-go-oidc-v3-dev
