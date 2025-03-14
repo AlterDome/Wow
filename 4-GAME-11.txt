@@ -45,3 +45,4 @@ phalanx
 endless-sky-data
 gravitation
 opentyrian
+supertransball2
