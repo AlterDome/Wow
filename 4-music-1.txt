@@ -99,3 +99,4 @@ audacity
 audacity-data
 pt2-clone
 qmidiarp
+muse
