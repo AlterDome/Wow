@@ -19,3 +19,10 @@ perlindex
 perl-modules-5.36
 perlconsole
 perlbal
+pmtools
+pkwalify
+librna-perl
+libstfl-perl
+libperl-dev
+pdl
+nqp
