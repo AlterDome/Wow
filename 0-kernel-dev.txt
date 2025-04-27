@@ -10,3 +10,4 @@ flex
 libssl-dev
 libelf-dev
 cmake
+fdclone
