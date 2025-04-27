@@ -46,3 +46,4 @@ endless-sky-data
 gravitation
 opentyrian
 supertransball2
+cen64
