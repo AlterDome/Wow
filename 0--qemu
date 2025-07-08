@@ -1,0 +1,12 @@
+u-boot-qemu
+qemu-web-desktop
+qemu-utils
+qemu-system-x86
+qemu-system-gui
+qemu-system-common
+qemu-system-data
+aqemu
+qemu-system-modules-opengl
+qemu-system
+grub-firmware-qemu
+
