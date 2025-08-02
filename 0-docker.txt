@@ -1,0 +1,11 @@
+docker
+docker-compose
+docker-clean
+kdocker
+debocker
+rawdns
+sen
+whalebuilder
+debootstick
+docker.io
+wmdocker
