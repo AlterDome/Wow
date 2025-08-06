@@ -9,3 +9,7 @@ whalebuilder
 debootstick
 docker.io
 wmdocker
+apt-transport-https
+ca-certificates
+curl
+software-properties-common
