@@ -1,0 +1,8 @@
+firebird3.0-server-core
+firebird3.0-common
+firebird-dev
+firebird3.0-common-doc
+firebird3.0-server
+firebird3.0-utils
+firebird3.0-examples
+firebird3.0-doc
