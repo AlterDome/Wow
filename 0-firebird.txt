@@ -6,3 +6,4 @@ firebird3.0-server
 firebird3.0-utils
 firebird3.0-examples
 firebird3.0-doc
+tortoize
